@@ -1,16 +1,16 @@
-Prefix(:=<http://www.semanticweb.org/vinicius/trabalho/final#>)
+Prefix(:=<http://www.semanticweb.org/ontology_smell#>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
 Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
 Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 Prefix(swrl:=<http://www.w3.org/2003/11/swrl#>)
-Prefix(final:=<http://www.semanticweb.org/vinicius/trabalho/final#>)
+Prefix(final:=<http://www.semanticweb.org/ontology_smell#>)
 Prefix(swrla:=<http://swrl.stanford.edu/ontologies/3.3/swrla.owl#>)
 Prefix(swrlb:=<http://www.w3.org/2003/11/swrlb#>)
 
 
-Ontology(<http://www.semanticweb.org/vinicius/trabalho/final>
+Ontology(<http://www.semanticweb.org/ontology_smell>
 
 Declaration(Class(final:AbstractClassOO))
 Declaration(Class(final:Attribute))
